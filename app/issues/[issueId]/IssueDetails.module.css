@@ -1,0 +1,10 @@
+.details {
+  height: 100vh;
+  padding: 3rem;
+
+  background-color: #b7b3bb;
+}
+
+.details p {
+  margin: 0.5rem 0;
+}
